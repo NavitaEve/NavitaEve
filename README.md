@@ -1,6 +1,6 @@
-### Hola mi nombre es Evelyn Nava  👋
+### Hola mi nombre es Evelyn Nava  👋  
 
-![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/40046e22-22f1-4fb6-ae4c-63fc4844895d)
+
 
 Soy Tester Manual con tres años de experiencia en pruebas y desarrollo de software, innovadora con un historial de diseño y ejecución de planes de prueba exhaustivos para garantizar la calidad del software. Capacidad demostrada para analizar los resultados de las pruebas e identificar errores para prevenir problemas, motivado por entregar productos de alta calidad que superan las expectativas del usuario.
 Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo suficiente conocimiento en las pruebas web, en lenguaje de programación como SQL, Python y pruebas móviles en Android Studio.
@@ -14,6 +14,8 @@ Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo
 **Proyectos diseñados.**
 
 En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Routes
+
+![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/d3090641-e6eb-49f1-bb21-20947b2a1145)
 
 
 <!--
