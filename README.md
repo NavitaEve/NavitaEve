@@ -13,9 +13,7 @@ Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo
 
 **Proyectos diseñados.**
 
-En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Routes
-
-![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/d3090641-e6eb-49f1-bb21-20947b2a1145)
+En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio
 
 
 <!--
