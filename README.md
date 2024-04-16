@@ -5,6 +5,7 @@ Soy Tester Manual con tres años de experiencia en pruebas y desarrollo de softw
 Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo suficiente conocimiento en las pruebas web, en lenguaje de programación como SQL, Python y pruebas móviles en Android Studio.
 
 **Tecnoligías:**
+
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/0144bd3d-81e5-418d-93f4-4f18c13871e4)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/5b92d7d9-af71-4ac8-ba85-5032543ed810)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/26418872-6a14-4157-9bd9-5f6ac3cf17f0)
