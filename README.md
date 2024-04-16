@@ -12,7 +12,7 @@ Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo
 
 **Proyectos diseñados.**
 
-En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers 
+En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Routes
 
 
 <!--
