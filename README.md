@@ -10,6 +10,8 @@ Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/5b92d7d9-af71-4ac8-ba85-5032543ed810)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/26418872-6a14-4157-9bd9-5f6ac3cf17f0)
 
+**Proyectos que he diseñado.**
+en este bootcamp he trabajado en dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers 
 
 
 <!--
