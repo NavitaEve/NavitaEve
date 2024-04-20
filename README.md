@@ -1,10 +1,8 @@
-### 👋  ¡Hola! soy Evelyn Nava  
-![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/24b5e4e7-1d33-44a9-a716-df9ff2429efb)
-
-
+### 👋  ¡Hola! soy Evelyn Nava 
 
 Soy Tester Manual con tres años de experiencia en pruebas y desarrollo de software, innovadora con un historial de diseño y ejecución de planes de prueba exhaustivos para garantizar la calidad del software. Capacidad demostrada para analizar los resultados de las pruebas e identificar errores para prevenir problemas, motivado por entregar productos de alta calidad que superan las expectativas del usuario.
-Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo suficiente conocimiento en las pruebas web, en lenguaje de programación como SQL, Python y pruebas móviles en Android Studio.
+Actualmente estoy practicando con Selenium y ya he realizado proyectos con lenguaje SQL y Python, utilizando la librería Pythest y Request, así como también herramientas de Manual Testing, como Jira, Postman y Android Studio.
+Me encanta el desafío descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación.
 
 **Tecnoligías:**
 
@@ -13,12 +11,14 @@ Actualmente estoy realizando un bootcamp de tecnología, donde estoy adquiriendo
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/26418872-6a14-4157-9bd9-5f6ac3cf17f0)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/018727bc-cd0b-4ef3-9f03-bac6b43b8935)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/e6b7263c-aa72-4e9d-b0de-79746ab988b9)
-
+![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/f8f7db8d-9cb5-4759-844c-5106a715fd1d)
+![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/b82e4526-91d2-413a-8606-c31a1e56b6f2)
+![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/62bbff73-6c7a-40d8-91d5-7702f39bb8f9)
 
 
 **Proyectos diseñados.**
 
-En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario pata la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio
+En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario para la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio
 
 
 <!--
