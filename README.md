@@ -6,6 +6,7 @@ Actualmente estoy practicando con Selenium y ya he realizado proyectos con lengu
 Me encanta el desafío descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación.
 
 ¿Quieres contactarme? 
+
 📧 evelynnava1230@gmail.com
 📱 +52 5582324280
 
