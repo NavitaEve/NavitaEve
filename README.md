@@ -11,9 +11,7 @@ Me encanta el desafío descubrir nuevas formas de escribir código para automati
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/26418872-6a14-4157-9bd9-5f6ac3cf17f0)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/018727bc-cd0b-4ef3-9f03-bac6b43b8935)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/e6b7263c-aa72-4e9d-b0de-79746ab988b9)
-![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/f8f7db8d-9cb5-4759-844c-5106a715fd1d)
-![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/b82e4526-91d2-413a-8606-c31a1e56b6f2)
-![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/62bbff73-6c7a-40d8-91d5-7702f39bb8f9)
+
 
 
 **Proyectos diseñados.**
