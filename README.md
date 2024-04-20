@@ -8,6 +8,7 @@ Me encanta el desafío descubrir nuevas formas de escribir código para automati
 ¿Quieres contactarme? 
 
 📧 evelynnava1230@gmail.com
+
 📱 +52 5582324280
 
 
@@ -19,16 +20,9 @@ Me encanta el desafío descubrir nuevas formas de escribir código para automati
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/018727bc-cd0b-4ef3-9f03-bac6b43b8935)
 ![image](https://github.com/NavitaEve/NavitaEve/assets/160977012/e6b7263c-aa72-4e9d-b0de-79746ab988b9)
 
-
-
 **Proyectos diseñados.**
 
-En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario para la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio
-
-¿Quieres contactarme? 
-📧 evelynnava1230@gmail.com
-📱 +52 5582324280
-
+En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario para la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio.
 
 <!--
 **NavitaEve/NavitaEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
