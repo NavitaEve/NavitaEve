@@ -24,7 +24,7 @@ Me encanta el desafío descubrir nuevas formas de escribir código para automati
 
 **Proyectos diseñados.**
 
-En este bootcamp realice dos proyectos, uno de ellos fue la cración de un usuario para la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio.
+En este bootcamp realice dos proyectos, uno de ellos fue la creación de un usuario para la aplicación Urban Grocers y el otro la funcionalidad de la aplicación de Urban Route, estos proyectos los puedes ver en mi repositorio.
 
 <!--
 **NavitaEve/NavitaEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
